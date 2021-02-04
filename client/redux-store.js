@@ -56,7 +56,7 @@ const initialState = {
   toolbarTitle: '',
   navigationArray: [
     {
-      title: 'Home',
+      title: 'HOME',
       url: '/',
       type: 'home',
       position: 0,

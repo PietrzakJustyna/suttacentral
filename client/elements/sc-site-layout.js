@@ -380,7 +380,7 @@ class SCSiteLayout extends LitLocalized(LitElement) {
     if (!this.navArray) {
       this.navArray = [
         {
-          title: 'Home',
+          title: 'HOME',
           url: '/',
           type: 'home',
           position: 0,
